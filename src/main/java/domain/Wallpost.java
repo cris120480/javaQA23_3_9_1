@@ -4,14 +4,18 @@ public class Wallpost {
     private String id;
     private String title;
     private String date;
-    private String user;
-    private String menu;
-    private String views;
-    private String comments;
-    private String share;
-    private String emoji;
-    private String photoId;
-    private String state;
     private String text;
-    private String phone;
+    private String postponedId;
+    private String markedAsAds;
+    private String canPin;
+    private String canDelete;
+    private String canEdit;
+    private String isPinned;
+    private String postType;
+    private String createdBy;
+    private String fromId;
+    private String ownerId;
+    private String replyOwnerId;
+    private String replyPostId;
+    private String friendsOnly;
 }
