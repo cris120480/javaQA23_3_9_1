@@ -2,9 +2,9 @@ package domain;
 
 public class Likes {
 
-    private int count;
-    private int userLikes;
-    private int canLike;
-    private int canPublish;
+    private boolean count;
+    private boolean userLikes;
+    private boolean canLike;
+    private boolean canPublish;
 
 }
