@@ -1,9 +1,11 @@
 package domain;
 
-public class Geo {
+public class GeoInfo {
 
     private String type;
     private String coordinates;
-    private Place place;
+    private Object place;
+    private int signerId;
+
 
 }
